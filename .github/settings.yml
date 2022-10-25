@@ -5,7 +5,7 @@ repository:
   name: project-template
 
   # A short description of the repository that will show up on GitHub
-  description: MDN Web Docs Project Template
+  description: MDN Web Docs project template
 
   # A URL with more information about the repository
   homepage: https://github.com/mdn/project-template
