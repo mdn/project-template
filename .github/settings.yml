@@ -41,7 +41,7 @@ collaborators:
 labels:
   - name: bug
     color: D41130
-    description: "Something isn't working"
+    description: "Something that's wrong or not working as expected"
   - name: chore
     color: 258CD3
     description: "A routine task"
