@@ -47,7 +47,7 @@ labels:
     description: "A routine task"
   - name: "good first issue"
     color: 48B71D
-    description: "Good for newcomers"
+    description: "Great for newcomers to start contributing"
   - name: "help wanted"
     color: 2E7A10
     description: "Contributions welcome"
