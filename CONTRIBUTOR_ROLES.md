@@ -57,11 +57,8 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 - File issues
 - Address issues through [pull requests](CONTRIBUTING.md#pull-request-lifecycle)
-- Contributing to documentation
 - Support other community members and contributors
-- Provide feedback on pull requests
 - Help promote the project
-- Help with community events
 
 ### Contributor privileges
 
@@ -76,12 +73,9 @@ An Organization Member is an established contributor who regularly participates 
 
 Meet one or more of the following requirements on a monthly basis:
 
-- Two or more accepted pull requests.
-- Reviewed three or more pull requests.
-- Resolved two or more issues.
+- Two or more accepted pull requests that resolves two or more issues. (TODO: link to finding an issue)
 - Must have been contributing for at least two months.
 - Must be actively contributing to at least one project area.
-- Must have two sponsors who are also Organization Members.
 - Have two factor authentication enabled for their GitHub account.
 - Have enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
@@ -96,13 +90,8 @@ In addition to the responsibilities of a Contributor, Organization Members also 
 
 ### Organization Member responsibilities
 
-- Continues to contribute regularly, as demonstrated by having at least 24 contributions a year, as indicated by the [insights](https://github.com/orgs/mdn/projects/15/insights) shown on the MDN Motherboard project board.
+- Continues to contribute regularly to the MDN Web Docs project.
 
-### Organization Member privileges
-
-- May be assigned issues and reviews.
-- Will be added to the [organization-members team](https://github.com/orgs/mdn/teams/organization-members).
-- Can recommend other contributors to become Orginization Members.
 
 ## Invited Experts
 
@@ -112,8 +101,6 @@ Invited Experts have a track record of contributions, participation, and reviews
 
 ### Invited Experts requirements
 
-- Experience as a Contributor for at least six months.
-- Must be an Organization Member.
 - Has demonstrated an in-depth knowledge of the specific area.
 - Commits to being responsible for their assigned topic area.
 - Is supportive of new and occasional contributors and helps to get pull requests ready to merge.
@@ -131,13 +118,13 @@ Invited Experts have a track record of contributions, participation, and reviews
 In addition to the rights and responsibilities of an Organization Member, Invited Experts are responsible for:
 
 - Following the [review guide](REVIEWING.md).
-- Reviewing most pull requests in their topic area.
+- Reviewing pull requests in their topic area.
 - Helping other contributors become reviewers.
 
 ### Invited experts privileges
 
 - Have commit access to the repository.
-- Can recommend and vote for other members to become Organization Members and Invited Experts.
+- Can recommend and vote for other members to become Invited Experts.
 - Will be added to the Invited Experts and appropriate topic team.
 
 ## Maintainer
