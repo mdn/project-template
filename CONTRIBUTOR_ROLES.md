@@ -91,7 +91,7 @@ In addition to the responsibilities of a Contributor, Organization Members also 
 
 Invited Experts are responsible for a specific topic area or project component smaller than an entire project. Invited Experts are automatically assigned for review when pull requests are opened in their topic area. If there is more than one topic expert, reviewers are assigned using a [load-balancing strategy](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-auto-assignment).
 
-Invited Experts have a track record of contributions, participation, and reviews in the project or organization. They, together with other Reviewers, are responsible for reviewing all changes in their topic area and approving pull requests for merge.
+Invited Experts have a track record of contributions, participation, and reviews, or have proven knowledge in a certain area of expertise. They, together with other Reviewers, are responsible for reviewing changes in their topic area and approving pull requests for merge.
 
 ### Invited Experts requirements
 
