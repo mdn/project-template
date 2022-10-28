@@ -58,7 +58,7 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 - File issues
 - Address issues through [pull requests](CONTRIBUTING.md#pull-request-lifecycle)
 - Contributing to documentation
-- Support other community memebers and contributors
+- Support other community members and contributors
 - Provide feedback on pull requests
 - Help promote the project
 - Help with community events
