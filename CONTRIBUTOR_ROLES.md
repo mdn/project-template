@@ -79,12 +79,6 @@ Meet one or more of the following requirements on a monthly basis:
 - Have two factor authentication enabled for their GitHub account.
 - Have enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
-#### Process for nominating an Organization Member
-
-- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
-- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming an Organization Member.
-- To be accepted, the pull request needs three approvals. This can be any combination of Organization Members, Invited Experts, or Maintainers.
-- Once the pull request is approved, the new Organization Member is added to the [organization-members team](https://github.com/orgs/mdn/teams/organization-members).
 
 In addition to the responsibilities of a Contributor, Organization Members also have the following responsibilities:
 
