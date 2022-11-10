@@ -2,14 +2,26 @@
 
 A project template repository based on the [template repository](https://github.com/cncf/project-template) by the [Cloud Native Computing Foundation](https://github.com/cncf).
 
-## Configure actions
+## Using this template
 
-For the `auto-merge` workflow, you need to add a personal access token to the repository. For more details, see the [documentation for the action](https://github.com/mdn/workflows#auto-merge).
+To get started, follow these steps:
 
-## License
+1. Click the "Use this template" button at the top of the repository.
+2. Choose `MDN` as an owner, give the repository a name and select "Create repository from template".
+3. Copy the contents of `README-template.md` into the `README.md` file and adjust it to the project.
+4. Check for TODOs in the repository and adjust them to the project.
 
-This project is licensed under [Apache license 2.0](LICENSE).
+```bash
+git clone git@github.com:mdn/<repo-name>.git && cd <repo-name>
+mv README-template.md README.md
+grep -r TODO .
+```
 
-## Conduct
+### Configuring GitHub actions
 
-We follow the Mozilla [Code of Conduct](CODE_OF_CONDUCT.md).
+For the `auto-merge` workflow, you need to add a personal access token to the repository.
+For more details, see the [documentation for the action](https://github.com/mdn/workflows#auto-merge).
+
+## Attribution
+
+This template is on based on the [CNCF project template](https://github.com/cncf/project-template) distributed under an [Apache license 2.0](https://github.com/cncf/project-template/blob/main/LICENSE).

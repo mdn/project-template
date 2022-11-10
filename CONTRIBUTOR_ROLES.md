@@ -2,35 +2,19 @@
 
 - [Community participant roles](#community-participant-roles)
   - [Community Participant](#community-participant)
-    - [Responsibilities](#responsibilities)
-    - [How community participants can get involved with the community](#how-community-participants-can-get-involved-with-the-community)
   - [Contributor](#contributor)
-    - [Contributor Responsibilities](#contributor-responsibilities)
-    - [Contributor duties (one or more of the below)](#contributor-duties-one-or-more-of-the-below)
-    - [Contributor privileges](#contributor-privileges)
   - [Organization Member](#organization-member)
-    - [Requirements to become an Organization Member](#requirements-to-become-an-organization-member)
-      - [Process for nominating an Organization Member](#process-for-nominating-an-organization-member)
-    - [Organization Member responsibilities](#organization-member-responsibilities)
-    - [Organization Member privileges](#organization-member-privileges)
   - [Invited Experts](#invited-experts)
-    - [Invited Experts requirements](#invited-experts-requirements)
-      - [Process for nominating an Invited Expert](#process-for-nominating-an-invited-expert)
-    - [Invited experts responsibilities](#invited-experts-responsibilities)
-    - [Invited experts privileges](#invited-experts-privileges)
   - [Maintainer](#maintainer)
-    - [Maintainer requirements](#maintainer-requirements)
-      - [Process for nominating a Maintainer](#process-for-nominating-a-maintainer)
-    - [Maintainer responsibilities](#maintainer-responsibilities)
   - [Community Manager](#community-manager)
   - [Inactivity](#inactivity)
-    - [Involuntary Removal or Demotion](#involuntary-removal-or-demotion)
   - [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
   - [Contact](#contact)
 
 ## Community Participant
 
-A Community Participant engages with the project and its community, contributing their time, thoughts, etc. Community participants are usually users who have stopped being anonymous and started being active in project discussions.
+A Community Participant engages with the project and its community, contributing their time, thoughts, etc.
+Community participants are usually users who have stopped being anonymous and started being active in project discussions.
 
 ### Responsibilities
 
@@ -46,7 +30,9 @@ A Community Participant engages with the project and its community, contributing
 
 ## Contributor
 
-A Contributor contributes directly to the project and adds value to it. Contributions need not be code but can be documentation, research, and helping other community members and contributors. People at the Contributor level may be new contributors or only contribute occasionally.
+A Contributor contributes directly to the project and adds value to it.
+Contributions need not be code but can be documentation, research, and helping other community members and contributors.
+People at the Contributor level may be new contributors or only contribute occasionally.
 
 ### Contributor Responsibilities
 
@@ -67,7 +53,8 @@ A Contributor contributes directly to the project and adds value to it. Contribu
 
 ## Organization Member
 
-An Organization Member is an established contributor who regularly participates in the project. Organization Members have privileges on the organization level and, as such, are expected to act in the interests of the whole project.
+An Organization Member is an established contributor who regularly participates in the project.
+Organization Members have privileges on the organization level and, as such, are expected to act in the interests of the whole project.
 
 ### Requirements to become an Organization Member
 
@@ -79,19 +66,20 @@ Meet one or more of the following requirements on a monthly basis:
 - Have two factor authentication enabled for their GitHub account.
 - Have enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
-
 In addition to the responsibilities of a Contributor, Organization Members also have the following responsibilities:
 
 ### Organization Member responsibilities
 
 - Continues to contribute regularly to the MDN Web Docs project.
 
-
 ## Invited Experts
 
-Invited Experts are responsible for a specific topic area or project component smaller than an entire project. Invited Experts are automatically assigned for review when pull requests are opened in their topic area. If there is more than one topic expert, reviewers are assigned using a [load-balancing strategy](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-auto-assignment).
+Invited Experts are responsible for a specific topic area or project component smaller than an entire project.
+Invited Experts are automatically assigned for review when pull requests are opened in their topic area.
+If there is more than one topic expert, reviewers are assigned using a [load-balancing strategy](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-auto-assignment).
 
-Invited Experts have a track record of contributions, participation, and reviews, or have proven knowledge in a certain area of expertise. They, together with other Reviewers, are responsible for reviewing changes in their topic area and approving pull requests for merge.
+Invited Experts have a track record of contributions, participation, and reviews, or have proven knowledge in a certain area of expertise.
+They, together with other Reviewers, are responsible for reviewing changes in their topic area and approving pull requests for merge.
 
 ### Invited Experts requirements
 
@@ -173,7 +161,8 @@ In addition to the responsibilities of a Maintainer, the Community Manager has t
 
 ## Inactivity
 
-Participants must be active to set an example and show commitment to the project. Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
+Participants must be active to set an example and show commitment to the project.
+Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
 
 Inactivity is measured by:
 
@@ -187,11 +176,16 @@ Consequences of being inactive include:
 
 ### Involuntary Removal or Demotion
 
-Involuntary removal/demotion of a contributor happens when responsibilities and requirements aren't being met. This may include repeated patterns of inactivity, a period of failing to meet the requirements of the role, or a violation of the Code of Conduct. This process is essential because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
+Involuntary removal/demotion of a contributor happens when responsibilities and requirements aren't being met.
+This may include repeated patterns of inactivity, a period of failing to meet the requirements of the role, or a violation of the Code of Conduct.
+This process is essential because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
 
-During a maintainers meeting, a participant can ask to demote or remove a contributor. In addition, the participant is responsible for adding supporting information to the meeting agenda. Finally, the matter will be discussed and brought to a vote by all maintainers and community managers.
+During a maintainers meeting, a participant can ask to demote or remove a contributor.
+In addition, the participant is responsible for adding supporting information to the meeting agenda.
+Finally, the matter will be discussed and brought to a vote by all maintainers and community managers.
 
-Please communicate with the community team to avoid the above process should your time commitments change. In these cases, you can instead proactively choose to step down for a while or move to Emeritus status (see below).
+Please communicate with the community team to avoid the above process should your time commitments change.
+In these cases, you can instead proactively choose to step down for a while or move to Emeritus status (see below).
 
 ## Stepping Down/Emeritus Process
 
