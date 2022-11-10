@@ -1,6 +1,6 @@
-# MDN GitHub repository template
+# MDN repository template
 
-A project template repository based on the [template repository](https://github.com/cncf/project-template) by the [Cloud Native Computing Foundation](https://github.com/cncf).
+A template for MDN GitHub repositories.
 
 ## Using this template
 
