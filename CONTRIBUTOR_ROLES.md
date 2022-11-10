@@ -166,8 +166,8 @@ Conversely, inactivity harms the project as it may lead to unexpected delays, co
 
 Inactivity is measured by:
 
-- Periods of no contributions for longer than two months.
-- Periods of no communication for longer than a month.
+- Periods of no contributions for longer than six months.
+- Periods of no communication for longer than three months.
 
 Consequences of being inactive include:
 
