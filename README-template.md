@@ -56,7 +56,7 @@ Details (with links) to meetings, mailing lists, Slack, and any other communicat
 
 ## License
 
-This project is licensed under the [LICENSE](LICENSE.MD).
+This project is licensed under the [LICENSE](LICENSE.md).
 
 <!--
 
