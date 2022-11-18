@@ -1,10 +1,6 @@
 # MDN repository template
 
-A template for MDN GitHub repositories.
-
-## Using this template
-
-To get started, follow these steps:
+To get started:
 
 1. Click the "Use this template" button at the top of the repository.
 2. Choose `MDN` as an owner, give the repository a name and select "Create repository from template".
