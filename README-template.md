@@ -4,7 +4,7 @@
 
 [TODO: Additional paragraph describing your project (optional)]
 
-[TODO: ProjectName] is hosted by the [MDN Web Docs](https://github.com/mdn).
+[TODO: ProjectName] is hosted by [MDN Web Docs](https://github.com/mdn).
 
 ## Getting Started
 
@@ -17,10 +17,10 @@ TODO:
 Include enough details to get started using the project here and link to other docs with more detail as needed.
 This should look like:
 
-- prerequisites
 - quick installation/build instructions
 - a few simple examples of use
 
+More detailed build instructions (e.g., prerequisites and testing hints) should be in the CONTRIBUTING.md file.
 -->
 
 ## Contributing
