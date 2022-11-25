@@ -10,7 +10,7 @@ Welcome! This is a starter-kit template to scaffold new MDN GitHub repositories.
 
 2. Choose `mdn` in the "Owner" drop-down, give the repository a name in the "Repository name" field, and click the "Create repository from template" button.
 3. Copy the contents of `README-template.md` into the `README.md` file and adjust it to your project.
-4. Check for TODOs in the repository and adjust them to your project.
+4. Check for TODOs in the repository and adjust them to your project, e.g.:
 
 ```bash
 git clone git@github.com:mdn/<repo-name>.git && cd <repo-name>
