@@ -2,7 +2,7 @@
 
 Welcome! This is a starter-kit template to scaffold new MDN GitHub repositories. The template includes files that you need for consistency, such as [Licence](https://github.com/mdn/project-template/blob/main/LICENSE.md), [Security](https://github.com/mdn/project-template/blob/main/SECURITY.md), and [Code of conduct](https://github.com/mdn/project-template/blob/main/CODE_OF_CONDUCT.md) files. You should adjust other files as needed in your project.
 
-### Getting started
+## Getting started
 
 1. Click the "Use this template" button at the top of the repository, and choose "Create a new respository".
 
