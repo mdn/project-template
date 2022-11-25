@@ -1,26 +1,34 @@
-# Community participant roles
+# Contribution roles
 
-- [Community participant roles](#community-participant-roles)
-  - [Community Participant](#community-participant)
+Welcome to the MDN project! Here we take you through the different roles you can assume as part of contributing to the MDN Web Docs project. There is usually a step-by-step progress from one role to the next as you take on more responsibilites. We describe here how you can move from one role to the next. You could also directly assume a role if you have expertise in a particluar area. We discuss this under [Invited expert](#invited-expert). As you'll see, with the advancement in the contrinution ladder, you could serve more than one role at the same time.
+
+Contributing to MDN is a mutually beneficial relationship. Your contributions help this open source project immensely. You can use this project to demonstrate your technical and writing skills and as well as your ability to participate in team settings and engage with folks from diverse backgrounds.
+
+
+- [Roles](#roles)
+  - [Community participant](#community-participant)
   - [Contributor](#contributor)
-  - [Organization Member](#organization-member)
-  - [Invited Experts](#invited-experts)
+  - [Organization member](#organization-member)
+  - [Invited expert](#invited-expert)
   - [Maintainer](#maintainer)
-  - [Community Manager](#community-manager)
-  - [Inactivity](#inactivity)
-  - [Stepping Down/Emeritus Process](#stepping-downemeritus-process)
-  - [Contact](#contact)
+  - [Community manager](#community-manager)
 
-## Community Participant
 
-A Community Participant engages with the project and its community, contributing their time, thoughts, etc.
-Community participants are usually users who have stopped being anonymous and started being active in project discussions.
+- Workflows
+  - [Stepping down voluntarily](#stepping-down-voluntarily)
+  - [Gaining emeritus status](#gaining-emeritus-status)
+  - [Getting demoted involuntarily](#getting-demoted-involuntarily)
 
-### Responsibilities
+- [Contacting the MDN team](#contacting-the-mdn-team)
 
-- Must follow the [Mozilla code of conduct](CODE_OF_CONDUCT.md)
+## Roles
 
-### How community participants can get involved with the community
+At the base of all roles is the role of a community participant. You wear this hat irrespective of any other role you take on.
+
+### Community participant
+
+A community participant engages with the project and its community by contributing their time, opinions, and ideas.
+Community participants are usually users who have stopped being anonymous and started being active in project discussions. Community participants can get involved with the community in the following ways:
 
 - Participating in community [discussions](https://github.com/mdn/mdn-community/discussions)
 - Helping other users
@@ -28,13 +36,21 @@ Community participants are usually users who have stopped being anonymous and st
 - Commenting on issues
 - Attending community events
 
+#### Responsibilities
+
+- Must follow the [Mozilla code of conduct](CODE_OF_CONDUCT.md)
+
+
+
+
+
 ## Contributor
 
 A Contributor contributes directly to the project and adds value to it.
 Contributions need not be code but can be documentation, research, and helping other community members and contributors.
 People at the Contributor level may be new contributors or only contribute occasionally.
 
-### Contributor Responsibilities
+### Responsibilities
 
 - Must follow the [Mozilla code of conduct](CODE_OF_CONDUCT.md)
 - Follow [contribution guidelines](CONTRIBUTING.md).
@@ -51,7 +67,7 @@ People at the Contributor level may be new contributors or only contribute occas
 - Invitation to contributor events.
 - Eligibility to become an Organization Member.
 
-## Organization Member
+## Organization member
 
 An Organization Member is an established contributor who regularly participates in the project.
 Organization Members have privileges on the organization level and, as such, are expected to act in the interests of the whole project.
@@ -68,11 +84,11 @@ Meet one or more of the following requirements on a monthly basis:
 
 In addition to the responsibilities of a Contributor, Organization Members also have the following responsibilities:
 
-### Organization Member responsibilities
+### Responsibilities
 
 - Continues to contribute regularly to the MDN Web Docs project.
 
-## Invited Experts
+## Invited expert
 
 Invited Experts are responsible for a specific topic area or project component smaller than an entire project.
 Invited Experts are automatically assigned for review when pull requests are opened in their topic area.
@@ -159,7 +175,9 @@ In addition to the responsibilities of a Maintainer, the Community Manager has t
 - Ensure the health and well-being of the project and all participants.
 - Identify and assist with the implementation of automation to improve project sustainability.
 
-## Inactivity
+## Workflows
+
+## Turning inactive
 
 Participants must be active to set an example and show commitment to the project.
 Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
@@ -193,7 +211,7 @@ If and when contributors' commitment levels change, contributors can consider st
 
 Contact the community team about changing to Emeritus status, or reducing your contributor level.
 
-## Contact
+## Contacting the MDN team
 
-- For inquiries, please reach out to:
+- For inquiries and feedback, please reach out to:
   - mdn-web-docs-community (at) mozilla (.com)
