@@ -1,7 +1,9 @@
 # Licenses for MDN content
 
 MDN's content (including prose and code examples) is entirely available under various open source licenses.
-This file covers the types of content we provide and what licenses are in effect for each.
+This file covers the types of content we provide and the licenses that are in effect for each.
+
+If in doubt, add [attribution](https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Attrib_copyright_license) to the content you're using, and add a link to the content page on MDN.
 
 ## License for all prose content
 
