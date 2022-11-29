@@ -18,7 +18,7 @@ mv README-template.md README.md
 grep -r TODO .
 ```
 
-### Configuring GitHub actions
+## Configuring GitHub actions
 
 For the `auto-merge` workflow, you need to add a personal access token to the repository.
 For more details, see the [documentation for the action](https://github.com/mdn/workflows#auto-merge).
