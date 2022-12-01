@@ -1,4 +1,4 @@
-# Contribution roles
+# Contributor roles
 
 Community contributions help this open source project immensely. In return, contributors can use their work on this project to demonstrate their technical and writing skills as well as their ability to participate in team settings and to engage with folks from diverse backgrounds.
 
@@ -47,7 +47,7 @@ As a contributor, you can get involved with the project by engaging in the follo
 
 #### Requirements
 
-Contrbutors must follow:
+To be a contrbutor, you must follow:
 
 - [Mozilla code of conduct](CODE_OF_CONDUCT.md)
 - [Contribution guidelines](CONTRIBUTING.md)
@@ -61,11 +61,11 @@ Contrbutors enjoy the following privileges:
 
 ### Organization member
 
-MDN [organization members](https://github.com/orgs/mdn/people) are [contributors](#contributor) who participate in and contribute to the MDN Web Docs project regularly. They are expected to act in the interest of the whole project.
+MDN [organization members](https://github.com/orgs/mdn/people) are established [contributors](#contributor) who participate in and contribute to the MDN Web Docs project regularly. They are expected to act in the interest of the whole project.
 
 #### Requirements
 
-Organization members must meet one or more of the following requirements on a monthly basis:
+To be an organization member, you must meet one or more of the following requirements on a monthly basis:
 
 - Opened two or more pull requests that have been merged to resolve two or more issues.
 - Contributed for at least two months.
@@ -83,13 +83,13 @@ Owners have wide permissions to manage users and [teams](https://github.com/orgs
 
 Owners are bound by all the requirements of other user levels and roles. In addition to the responsibilities of other user levels, owners have the following responsibilities:
 
-- Follow and enforce MDN team norms, including the [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and [Mozilla Policies](https://www.mozilla.org/en-US/about/governance/policies/).
-- Follow the MDN organization policies and lead by example.
-- Suggest, document, and implement new policies through the pull request process.
-- Follow and contribute to issues and discussions across the MDN organization.
-- Ensure that an issue or pull request gets feedback from one or more members within one week.
-- [Archive](https://help.github.com/articles/about-archiving-repositories/) or delete unmaintained repositories.
-- Discuss GitHub features, select the ones to use, and document decisions.
+- Following and enforcing MDN team norms, including the [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and [Mozilla Policies](https://www.mozilla.org/en-US/about/governance/policies/).
+- Following the MDN organization policies and lead by example.
+- Suggesting, documenting, and implementing new policies through the pull request process.
+- Following and contributing to issues and discussions across the MDN organization.
+- Ensuring that an issue or pull request gets feedback from one or more members within one week.
+- [Archiving](https://help.github.com/articles/about-archiving-repositories/) or deleting unmaintained repositories.
+- Discussing GitHub features, selecting the ones to use, and documenting decisions.
 
 #### Requirements
 
@@ -103,6 +103,34 @@ Owners can:
 - Add and remove collaborators to specific repositories as needed.
 - Add repositories (as fresh projects or transfers) as needed.
 
+## Maintainer
+
+Maintainers are established [contributors](#contributor) who are responsible for one or more projects. Maintainers have the permissions to approve and merge pull requests. They are expected to participate in making decisions about the policies and priorities of the project. 
+
+In addition to the responsibilities of all other roles, maintainers have the following additional responsibilities:
+
+- Determining priorities for the project.
+- Participating in community meetings.
+- Mentoring new and existing contributors across all other roles.
+- If appropriate and based on the skill set, proposing, approving, or implementing:
+  - Code and infrastructure improvements.
+  - Content improvements.
+  - Process improvements.
+
+To nominate someone to be a maintainer, see the [process](#nominating-a-maintainer).
+
+<TODO: Compare with https://developer.mozilla.org/en-US/docs/MDN/Community/Users_teams#volunteer_and_partner_maintainers. What info needs to be retained. Should we use the term 'partner maintainer' or is 'maintainer' good enough?>
+
+### Requirements
+
+To be eligible to be a maintainer, you must meet one or more of the following requirements:
+
+- Gained experience as an [invited expert](#invited-expert) for at least six months.
+- Demonstrated a broad knowledge of the project across multiple areas.
+- Demonstrated the ability to exercise judgment for the good of the project, independent of the influence of other members.
+- Exhibited the quality og mentoring other contributors.
+- Consented to commit spending at least 16 hours per month working on the project.
+- Attended the community meeting that takes place once every two months.
 
 ### Spotlight contributor
 
@@ -110,7 +138,7 @@ Once a month, we feature a spotlight contributor on the [MDN website](https://de
 
 Spotlight contributors are folks who have gone above and beyond with their contributions to MDN Web Docs. Their contributions are in the form of opening pull requests to improve the project, helping community members on GitHub [discussions](https://github.com/mdn/mdn-community/discussions) or learn forums, or providing feedback on GitHub issues and pull requests.
 
-To nominate someone, see the [process](#nominating-a-spotlight-contributor) here.
+To nominate someone to be a spotlight contributor, see the [process](#nominating-a-spotlight-contributor).
 
 ## Invited expert
 
@@ -149,37 +177,6 @@ In addition to the rights and responsibilities of an Organization Member, Invite
 - Can recommend and vote for other members to become Invited Experts.
 - Will be added to the Invited Experts and appropriate topic team.
 
-## Maintainer
-
-Maintainers are established contributors who are responsible for one or more projects. As such, they have the ability to approve and merge pull requests, and are expected to participate in making decisions about the priorities of the project.
-
-### Maintainer requirements
-
-- Experience as an invited expert for at least six months.
-- Demonstrates a broad knowledge of the project across multiple areas.
-- Is able to exercise judgment for the good of the project, independent of the influence of other members.
-- A history of mentoring other contributors.
-- Can commit to spending at least 16 hours per month working on the project.
-- Attends the community meeting which takes place once every two months.
-
-#### Process for nominating a Maintainer
-
-- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
-- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming a Maintainer.
-- At least three current Maintainers must approve the pull request.
-- Once the pull request is approved, the new Maintainer is added to the [maintainers team](https://github.com/orgs/mdn/teams/maintainers) and any other relevant topic or project teams.
-
-### Maintainer responsibilities
-
-In addition to the responsibilities of all other roles, a Maintainer has these additional responsibilities:
-
-- Determining priorities for the project.
-- Participating in community meetings.
-- Mentoring new and existing contributors across all other roles.
-- If appropriate, based on the skill set of the maintainer:
-  - Propose, approve, or implement code and infrastructure improvements.
-  - Propose, approve, or implement content improvements.
-  - Propose, approve, or implement process improvements.
 
 ## Community Manager
 
@@ -200,6 +197,20 @@ In addition to the responsibilities of a Maintainer, the Community Manager has t
 - Identify and assist with the implementation of automation to improve project sustainability.
 
 ## Processes
+
+### Nominating a maintainer
+
+See who can be a [maintainer](#maintainer).
+
+To nominate someone as a maintainer,
+<TODO: Update links in these steps>
+<TODO: Edit the section after updating the links>
+
+
+- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
+- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming a Maintainer.
+- At least three current Maintainers must approve the pull request.
+- Once the pull request is approved, the new Maintainer is added to the [maintainers team](https://github.com/orgs/mdn/teams/maintainers) and any other relevant topic or project teams.
 
 ### Nominating a spotlight contributor
 
