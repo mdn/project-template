@@ -26,13 +26,13 @@ There is usually a step-by-step progress from one role to the next as you take o
 
 ## Roles
 
-Irrespective of the role you take on in this project, you always are a contributor. [Contributor](#contributor) is the base role and all other roles build on top of it. As such, you must satisfy the [responsibilities of a contributor](#responsibilities) while working in any capacity on this project.
+Irrespective of the role you take on in this project, you always are a contributor. [Contributor](#contributor) is the base role and all other roles build on top of it. As such, you must satisfy the [requirements of a contributor](#requirements) while working in any capacity on this project.
 
 ### Contributor
 
-Contributors, also known as community participants, engage with the project and its community by contributing their time, skills, opinions, and ideas. A contributor contributes directly to the project and adds value to it. Contributions are not limited to writing or testing code examples but also include creating and updating documentation, researching, fixing bugs, and helping other community members.
+Contributors, also known as community participants, engage with the project and its community by contributing their time, skills, opinions, and ideas. Contributors work on the project directly and add value to it. Contributions are not limited to writing or testing code examples but also include creating and updating documentation, researching, fixing bugs, and helping other community members.
 
-You can be a new contributor, an active contributor, or someone who contributes only occasionally. If you're new here, you can check out the different [repositories in the MDN projects](https://github.com/orgs/mdn/repositories).
+If you're new here, check out the different [repositories in the MDN project](https://github.com/orgs/mdn/repositories). Based on the frequency of your contributions, you can be an active contributor or someone who contributes only occasionally. Based on your impact on the project, you could be nominated as a [spotlight contributor](#spotlight-contributor).
 
 As a contributor, you can get involved with the project by engaging in the following acitivites:
 
@@ -44,46 +44,46 @@ As a contributor, you can get involved with the project by engaging in the follo
 - Attending community events
 - Helping to promote the MDN project
 
-#### Responsibilities
+#### Requirements
 
-You must follow:
+Contrbutors must follow:
 
 - [Mozilla code of conduct](CODE_OF_CONDUCT.md)
 - [Contribution guidelines](CONTRIBUTING.md)
 
 #### Privileges
 
-As a contributor, you enjoy the following privileges:
+Contrbutors enjoy the following privileges:
 
 - Invitations to contributor events.
 - Eligibility to become an [organization member](#organization-member).
 
-## Organization member
+### Organization member
 
-An Organization Member is an established contributor who regularly participates in the project.
-Organization Members have privileges on the organization level and, as such, are expected to act in the interests of the whole project.
+[MDN organization](https://github.com/mdn) members are [contributors](#contributor) who participate in and contribute to the MDN Web Docs project regularly. They are expected to act in the interest of the whole project.
 
-### Requirements to become an Organization Member
+#### Requirements
 
-Meet one or more of the following requirements on a monthly basis:
+Organization members must meet one or more of the following requirements on a monthly basis:
 
-- Two or more accepted pull requests that resolves two or more issues. (TODO: link to finding an issue)
-- Must have been contributing for at least two months.
-- Must be actively contributing to at least one project area.
-- Have two factor authentication enabled for their GitHub account.
-- Have enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+- Opened two or more pull requests that have been merged to resolve two or more issues.
+- Contributed for at least two months.
+- Contributed actively to at least one project area.
+- Enabled [two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication) for their GitHub account.
+- Enabled [signed commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
 
-In addition to the responsibilities of a Contributor, Organization Members also have the following responsibilities:
+#### Privileges
 
-### Responsibilities
+Organization members have privileges at the [organization level](https://github.com/mdn) on GitHub.
 
-- Continues to contribute regularly to the MDN Web Docs project.
 
 ### Spotlight contributor
 
 Once a month, we feature a spotlight contributor on the [MDN website](https://developer.mozilla.org/en-US/).
 
-Spotlight contributors are folks who have gone above and beyond with their contributions to MDN Web Docs. Their contributions are in the form of opening pull requests to improve the project, helping community members on GitHub [discussions](https://github.com/mdn/mdn-community/discussions) or learn forums, or providing feedback on GitHub issues and pull requests. To nominate someone, see the [process](#nominating-a-spotlight-contributor) here.
+Spotlight contributors are folks who have gone above and beyond with their contributions to MDN Web Docs. Their contributions are in the form of opening pull requests to improve the project, helping community members on GitHub [discussions](https://github.com/mdn/mdn-community/discussions) or learn forums, or providing feedback on GitHub issues and pull requests.
+
+To nominate someone, see the [process](#nominating-a-spotlight-contributor) here.
 
 ## Invited expert
 
