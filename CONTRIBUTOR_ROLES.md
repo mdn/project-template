@@ -65,7 +65,7 @@ MDN [organization members](https://github.com/orgs/mdn/people) are established [
 
 #### Requirements
 
-To be an organization member, you must meet one or more of the following requirements on a monthly basis:
+To be an organization member, you must meet one or more of the following requirements:
 
 - Opened two or more pull requests that have been merged to resolve two or more issues.
 - Contributed for at least two months.
