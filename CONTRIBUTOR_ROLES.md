@@ -7,13 +7,15 @@ This page describes the different roles you, as a contributor, can assume while 
 There is usually a step-by-step progress from one role to the next as you take on more responsibilites. We describe here how you can move from one role to the next. You can also skip the progression and assume a role directly if you have the expertise in a particluar area. We discuss this under [Invited expert](#invited-expert). As you'll see, with the advancement in the contribution ladder, you could serve more than one role at the same time.
 
 - [Roles](#roles)
-  - [Community participant](#community-participant)
   - [Contributor](#contributor)
   - [Organization member](#organization-member)
-  - [Invited expert](#invited-expert)
   - [Maintainer](#maintainer)
-  - [Community manager](#community-manager)
+  - [Spotlight contributor](#spotlight-contributor)
+  - 
 
+- Specialized roles
+  - [Invited expert](#invited-expert)
+  - [Community manager](#community-manager)
 
 - Workflows
   - [Stepping down voluntarily](#stepping-down-voluntarily)
@@ -24,49 +26,37 @@ There is usually a step-by-step progress from one role to the next as you take o
 
 ## Roles
 
-At the base of all roles is the role of a community participant. You wear this hat irrespective of any other role you take on.
+Irrespective of the role you take on in this project, you always are a contributor. [Contributor](#contributor) is the base role and all other roles build on top of it. As such, you must satisfy the [responsibilities of a contributor](#responsibilities) while working in any capacity on this project.
 
-### Community participant
+### Contributor
 
-A community participant engages with the project and its community by contributing their time, opinions, and ideas.
-Community participants are usually users who have stopped being anonymous and started being active in project discussions. Community participants can get involved with the community in the following ways:
+Contributors, also known as community participants, engage with the project and its community by contributing their time, skills, opinions, and ideas. A contributor contributes directly to the project and adds value to it. Contributions are not limited to writing or testing code examples but also include creating and updating documentation, researching, fixing bugs, and helping other community members.
 
-- Participating in community [discussions](https://github.com/mdn/mdn-community/discussions)
-- Helping other users
-- Submitting bug reports
-- Commenting on issues
+You can be a new contributor, an active contributor, or someone who contributes only occasionally. If you're new here, you can check out the different [repositories in the MDN projects](https://github.com/orgs/mdn/repositories).
+
+As a contributor, you can get involved with the project by engaging in the following acitivites:
+
+- Participating in community [discussions](https://github.com/mdn/mdn-community/discussions). Check out the different [discussion categories](https://github.com/mdn/mdn-community#github-discussions) in which you can participate.
+- Helping other contributors with their pull request submissions or issue resolutions or mentoring new contributors.
+- Submitting bug reports. Check out the [kind of issues you can open](https://github.com/mdn/content/issues/new/choose) on MDN's `content` repository. Similarly, if you notice a platform bug, you can [open an issue](https://github.com/mdn/yari/issues/new/choose) on MDN's `yari` repository.
+- Commenting on issues to move the thread along towards a fruitful resolution.
+- Addressing open issues (for example, in the [`content` repository](https://github.com/mdn/content/issues)) by submitting [pull requests](CONTRIBUTING.md#pull-request-process)
 - Attending community events
+- Helping to promote the MDN project
 
 #### Responsibilities
 
-- Must follow the [Mozilla code of conduct](CODE_OF_CONDUCT.md)
+You must follow:
 
+- [Mozilla code of conduct](CODE_OF_CONDUCT.md)
+- [Contribution guidelines](CONTRIBUTING.md)
 
+#### Privileges
 
+As a contributor, you enjoy the following privileges:
 
-
-## Contributor
-
-A Contributor contributes directly to the project and adds value to it.
-Contributions need not be code but can be documentation, research, and helping other community members and contributors.
-People at the Contributor level may be new contributors or only contribute occasionally.
-
-### Responsibilities
-
-- Must follow the [Mozilla code of conduct](CODE_OF_CONDUCT.md)
-- Follow [contribution guidelines](CONTRIBUTING.md).
-
-### Contributor duties (one or more of the below)
-
-- File issues
-- Address issues through [pull requests](CONTRIBUTING.md#pull-request-lifecycle)
-- Support other community members and contributors
-- Help promote the project
-
-### Contributor privileges
-
-- Invitation to contributor events.
-- Eligibility to become an Organization Member.
+- Invitations to contributor events.
+- Eligibility to become an [organization member](#organization-member).
 
 ## Organization member
 
