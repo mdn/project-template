@@ -1,9 +1,10 @@
 # Contribution roles
 
-Welcome to the MDN project! Here we take you through the different roles you can assume as part of contributing to the MDN Web Docs project. There is usually a step-by-step progress from one role to the next as you take on more responsibilites. We describe here how you can move from one role to the next. You could also directly assume a role if you have expertise in a particluar area. We discuss this under [Invited expert](#invited-expert). As you'll see, with the advancement in the contrinution ladder, you could serve more than one role at the same time.
+Community contributions help this open source project immensely. In return, contributors can use their work on this project to demonstrate their technical and writing skills as well as their ability to participate in team settings and to engage with folks from diverse backgrounds.
 
-Contributing to MDN is a mutually beneficial relationship. Your contributions help this open source project immensely. You can use this project to demonstrate your technical and writing skills and as well as your ability to participate in team settings and engage with folks from diverse backgrounds.
+This page describes the different roles you, as a contributor, can assume while volunteering on the MDN Web Docs project.
 
+There is usually a step-by-step progress from one role to the next as you take on more responsibilites. We describe here how you can move from one role to the next. You can also skip the progression and assume a role directly if you have the expertise in a particluar area. We discuss this under [Invited expert](#invited-expert). As you'll see, with the advancement in the contribution ladder, you could serve more than one role at the same time.
 
 - [Roles](#roles)
   - [Community participant](#community-participant)
@@ -211,7 +212,7 @@ If and when contributors' commitment levels change, contributors can consider st
 
 Contact the community team about changing to Emeritus status, or reducing your contributor level.
 
-## Contacting the MDN team
+## Contact the MDN team
 
 - For inquiries and feedback, please reach out to:
   - mdn-web-docs-community (at) mozilla (.com)
