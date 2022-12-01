@@ -9,6 +9,7 @@ There is usually a step-by-step progress from one role to the next as you take o
 - [Roles](#roles)
   - [Contributor](#contributor)
   - [Organization member](#organization-member)
+  - [Owner](#owner)
   - [Maintainer](#maintainer)
   - [Spotlight contributor](#spotlight-contributor)
 
@@ -32,7 +33,7 @@ Irrespective of the role you take on in this project, you always are a contribut
 
 Contributors, also known as community participants, engage with the project and its community by contributing their time, skills, opinions, and ideas. Contributors work on the project directly and add value to it. Contributions are not limited to writing or testing code examples but also include creating and updating documentation, researching, fixing bugs, and helping other community members.
 
-If you're new here, check out the different [repositories in the MDN project](https://github.com/orgs/mdn/repositories). Based on the frequency of your contributions, you can be an active contributor or someone who contributes only occasionally. Based on your impact on the project, you could be nominated as a [spotlight contributor](#spotlight-contributor).
+If you're new here, check out the different [repositories in the MDN project](https://github.com/orgs/mdn/repositories). Based on the frequency of your contributions, you can be an active contributor or someone who contributes only occasionally. Based on your impact on the project, you could be nominated as a [spotlight contributor](#spotlight-contributor) or be promoted to an [organization member](#organization-member).
 
 As a contributor, you can get involved with the project by engaging in the following acitivites:
 
@@ -60,7 +61,7 @@ Contrbutors enjoy the following privileges:
 
 ### Organization member
 
-[MDN organization](https://github.com/mdn) members are [contributors](#contributor) who participate in and contribute to the MDN Web Docs project regularly. They are expected to act in the interest of the whole project.
+MDN [organization members](https://github.com/orgs/mdn/people) are [contributors](#contributor) who participate in and contribute to the MDN Web Docs project regularly. They are expected to act in the interest of the whole project.
 
 #### Requirements
 
@@ -75,6 +76,32 @@ Organization members must meet one or more of the following requirements on a mo
 #### Privileges
 
 Organization members have privileges at the [organization level](https://github.com/mdn) on GitHub.
+
+### Owner
+
+Owners have wide permissions to manage users and [teams](https://github.com/orgs/mdn/teams) on GitHub, maintain access across repositories in the [MDN organization](https://github.com/mdn), maintain repository settings, and deploy to production.
+
+Owners are bound by all the requirements of other user levels and roles. In addition to the responsibilities of other user levels, owners have the following responsibilities:
+
+- Follow and enforce MDN team norms, including the [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) and [Mozilla Policies](https://www.mozilla.org/en-US/about/governance/policies/).
+- Follow the MDN organization policies and lead by example.
+- Suggest, document, and implement new policies through the pull request process.
+- Follow and contribute to issues and discussions across the MDN organization.
+- Ensure that an issue or pull request gets feedback from one or more members within one week.
+- [Archive](https://help.github.com/articles/about-archiving-repositories/) or delete unmaintained repositories.
+- Discuss GitHub features, select the ones to use, and document decisions.
+
+#### Requirements
+
+The role of an owner is currently limited to Mozilla staff.
+
+#### Privileges
+
+Owners can:
+
+- Add and remove organization owners and members as needed.
+- Add and remove collaborators to specific repositories as needed.
+- Add repositories (as fresh projects or transfers) as needed.
 
 
 ### Spotlight contributor
