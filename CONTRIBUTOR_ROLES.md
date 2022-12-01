@@ -11,13 +11,13 @@ There is usually a step-by-step progress from one role to the next as you take o
   - [Organization member](#organization-member)
   - [Maintainer](#maintainer)
   - [Spotlight contributor](#spotlight-contributor)
-  - 
 
-- Specialized roles
+- [Specialized roles](#specialized-roles)
   - [Invited expert](#invited-expert)
   - [Community manager](#community-manager)
 
-- Workflows
+- [Processes](#processes)
+  - [Nominating a spotlight contributor](#nominating-a-spotlight-contributor)
   - [Stepping down voluntarily](#stepping-down-voluntarily)
   - [Gaining emeritus status](#gaining-emeritus-status)
   - [Getting demoted involuntarily](#getting-demoted-involuntarily)
@@ -36,7 +36,7 @@ You can be a new contributor, an active contributor, or someone who contributes 
 
 As a contributor, you can get involved with the project by engaging in the following acitivites:
 
-- Participating in community [discussions](https://github.com/mdn/mdn-community/discussions). Check out the different [discussion categories](https://github.com/mdn/mdn-community#github-discussions) in which you can participate.
+- Participating in community [discussions](https://github.com/mdn/mdn-community/discussions) on GitHub. Check out the different [discussion categories](https://github.com/mdn/mdn-community#github-discussions) in which you can participate.
 - Helping other contributors with their pull request submissions or issue resolutions or mentoring new contributors.
 - Submitting bug reports. Check out the [kind of issues you can open](https://github.com/mdn/content/issues/new/choose) on MDN's `content` repository. Similarly, if you notice a platform bug, you can [open an issue](https://github.com/mdn/yari/issues/new/choose) on MDN's `yari` repository.
 - Commenting on issues to move the thread along towards a fruitful resolution.
@@ -78,6 +78,12 @@ In addition to the responsibilities of a Contributor, Organization Members also 
 ### Responsibilities
 
 - Continues to contribute regularly to the MDN Web Docs project.
+
+### Spotlight contributor
+
+Once a month, we feature a spotlight contributor on the [MDN website](https://developer.mozilla.org/en-US/).
+
+Spotlight contributors are folks who have gone above and beyond with their contributions to MDN Web Docs. Their contributions are in the form of opening pull requests to improve the project, helping community members on GitHub [discussions](https://github.com/mdn/mdn-community/discussions) or learn forums, or providing feedback on GitHub issues and pull requests. To nominate someone, see the [process](#nominating-a-spotlight-contributor) here.
 
 ## Invited expert
 
@@ -166,9 +172,21 @@ In addition to the responsibilities of a Maintainer, the Community Manager has t
 - Ensure the health and well-being of the project and all participants.
 - Identify and assist with the implementation of automation to improve project sustainability.
 
-## Workflows
+## Processes
 
-## Turning inactive
+### Nominating a spotlight contributor
+
+See who can be a [spotlight contributor](#spotlight-contributor).
+
+To nominate someone as a spotlight contributor, open an issue on GitHub:
+1. Go to [`Issues`](https://github.com/mdn/mdn/issues) in the `mdn/mdn` repository.
+2. Click 'New issue` button on the right.
+3. Click the 'Get started' button for 'Nominate a spotlight contributor'.
+4. Fill in the form with details of the contributions of the person you are nominating.
+
+The MDN team will get in otuch with the nominated person to get their information to be published on the [website](https://developer.mozilla.org/en-US/).
+
+### Turning inactive
 
 Participants must be active to set an example and show commitment to the project.
 Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
