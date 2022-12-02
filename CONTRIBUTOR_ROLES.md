@@ -20,12 +20,12 @@ There is usually a step-by-step progress from one role to the next as you take o
 - [Processes](#processes)
   - [Nominating a maintainer](#nominating-a-maintainer)
   - [Nominating a spotlight contributor](#nominating-a-spotlight-contributor)
-  - [Nominating an invited expert](#nominating-an-invited expert)
+  - [Nominating an invited expert](#nominating-an-invited-expert)
   - [Stepping down voluntarily](#stepping-down-voluntarily)
   - [Gaining emeritus status](#gaining-emeritus-status)
   - [Getting demoted involuntarily](#getting-demoted-involuntarily)
 
-- [Contacting the MDN team](#contacting-the-mdn-team)
+- [Contact the MDN team](#contact-the-mdn-team)
 
 ## Roles
 
@@ -185,21 +185,20 @@ Invited experts get added to the invited experts team and to the appropriate top
 
 ### Community manager
 
-Community managers have a distinct role in many respects. Still, as the projects are technical, the role shares many of the same requirements and responsibilities as the Maintainer role.
+Community managers have a distinct role in many respects. Community managers share many of the same responsibilities as a [maintainer](#maintainer). In addition, community managers have the following responsibilities:
 
-In addition to the responsibilities of a Maintainer, the Community Manager has these additional responsibilities.
-
-- Along with Maintainers, address reports where the code of conduct has been violated and decide on the appropriate action.
-- Organize and run community events.
-- Determine media strategies to promote the project and onboard new contributors and users.
-- Define and implement the onboarding experience.
-- Organize community-related project meetings.
-- Meet with and ensure a healthy relationship with contributors and partners.
-- Assist with issue triage as well as pull request review where appropriate.
-- Responsible for monitoring all communication channels, including discussions on GitHub.
-- Highlight contributors that have done exceptional work and/or have shown dedication to the project and organization.
-- Ensure the health and well-being of the project and all participants.
-- Identify and assist with the implementation of automation to improve project sustainability.
+- Addressing reports of violation of code of conduct and deciding on the appropriate action.
+- Organizing and running community events.
+- Organizing community-related project meetings.
+- Determining media strategies to promote the MDN project.
+- Defining and implementing the onboarding experience.
+- Onboarding new contributors and users.
+- Ensuring the health and well-being of the project and all participants.
+- Identifying and assisting with the implementation of automation to improve project sustainability.
+- Meeting and ensuring a healthy relationship with contributors and partners.
+- Assisting with issue triage and pull request review where appropriate.
+- Monitoring all communication channels, including [discussions](https://github.com/mdn/mdn-community/discussions) on GitHub.
+- Highlighting contributors that have done exceptional work and/or have shown dedication to the MDN project.
 
 ## Processes
 
@@ -252,7 +251,7 @@ To nominate someone as an invited expert, open an issue on GitHub:
 - Once the pull request is approved, the new Invited Expert is added to the [invited-experts team](https://github.com/orgs/mdn/teams/invited-experts) and the appropriate topic team.
 --!>
 
-### Turning inactive
+### Stepping down voluntarily
 
 Participants must be active to set an example and show commitment to the project.
 Conversely, inactivity harms the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
@@ -265,12 +264,18 @@ Inactivity is measured by:
 Consequences of being inactive include:
 
 - Involuntary removal or demotion
-- Being asked to move to Emeritus status
+- Being asked to move to [emeritus status]((#gaining-emeritus-status)
 
-### Involuntary Removal or Demotion
+### Gaining emeritus status
+
+If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project).
+
+Contact the community team about moving to emeritus status or reducing your contributor level.
+
+### Getting demoted involuntarily
 
 Involuntary removal/demotion of a contributor happens when responsibilities and requirements aren't being met.
-This may include repeated patterns of inactivity, a period of failing to meet the requirements of the role, or a violation of the Code of Conduct.
+This may include repeated patterns of inactivity, a period of failing to meet the requirements of the role, or a violation of the [code of conduct](CODE_OF_CONDUCT.md).
 This process is essential because it protects the community and its deliverables while also opening up opportunities for new contributors to step in.
 
 During a maintainers meeting, a participant can ask to demote or remove a contributor.
@@ -278,15 +283,8 @@ In addition, the participant is responsible for adding supporting information to
 Finally, the matter will be discussed and brought to a vote by all maintainers and community managers.
 
 Please communicate with the community team to avoid the above process should your time commitments change.
-In these cases, you can instead proactively choose to step down for a while or move to Emeritus status (see below).
-
-### Stepping Down/Emeritus Process
-
-If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to Emeritus status (completely stepping away from the project).
-
-Contact the community team about changing to Emeritus status, or reducing your contributor level.
+In these cases, you can instead proactively choose to step down for a while or move to [emeritus status]((#gaining-emeritus-status).
 
 ## Contact the MDN team
 
-- For inquiries and feedback, please reach out to:
-  - mdn-web-docs-community (at) mozilla (.com)
+For inquiries and feedback, please reach out to mdn-web-docs-community (at) mozilla (.com).
