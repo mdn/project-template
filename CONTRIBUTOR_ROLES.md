@@ -18,7 +18,9 @@ There is usually a step-by-step progress from one role to the next as you take o
   - [Community manager](#community-manager)
 
 - [Processes](#processes)
+  - [Nominating a maintainer](#nominating-a-maintainer)
   - [Nominating a spotlight contributor](#nominating-a-spotlight-contributor)
+  - [Nominating an invited expert](#nominating-an-invited expert)
   - [Stepping down voluntarily](#stepping-down-voluntarily)
   - [Gaining emeritus status](#gaining-emeritus-status)
   - [Getting demoted involuntarily](#getting-demoted-involuntarily)
@@ -103,9 +105,9 @@ Owners can:
 - Add and remove collaborators to specific repositories as needed.
 - Add repositories (as fresh projects or transfers) as needed.
 
-## Maintainer
+### Maintainer
 
-Maintainers are established [contributors](#contributor) who are responsible for one or more projects. Maintainers have the permissions to approve and merge pull requests. They are expected to participate in making decisions about the policies and priorities of the project. 
+Maintainers are established [contributors](#contributor) who are responsible for one or more projects. They are expected to participate in making decisions about the policies and priorities of the project. 
 
 In addition to the responsibilities of all other roles, maintainers have the following additional responsibilities:
 
@@ -119,9 +121,9 @@ In addition to the responsibilities of all other roles, maintainers have the fol
 
 To nominate someone to be a maintainer, see the [process](#nominating-a-maintainer).
 
-<TODO: Compare with https://developer.mozilla.org/en-US/docs/MDN/Community/Users_teams#volunteer_and_partner_maintainers. What info needs to be retained. Should we use the term 'partner maintainer' or is 'maintainer' good enough?>
+<TODO: Compare with https://developer.mozilla.org/en-US/docs/MDN/Community/Users_teams#volunteer_and_partner_maintainers. What info needs to be retained? Should we use the term 'partner maintainer' or is 'maintainer' good enough?>
 
-### Requirements
+#### Requirements
 
 To be eligible to be a maintainer, you must meet one or more of the following requirements:
 
@@ -132,55 +134,58 @@ To be eligible to be a maintainer, you must meet one or more of the following re
 - Consented to commit spending at least 16 hours per month working on the project.
 - Attended the community meeting that takes place once every two months.
 
-### Spotlight contributor
+#### Privileges
 
-Once a month, we feature a spotlight contributor on the [MDN website](https://developer.mozilla.org/en-US/).
+Maintainers have the permissions to approve and merge pull requests. 
+
+### Spotlight contributor
 
 Spotlight contributors are folks who have gone above and beyond with their contributions to MDN Web Docs. Their contributions are in the form of opening pull requests to improve the project, helping community members on GitHub [discussions](https://github.com/mdn/mdn-community/discussions) or learn forums, or providing feedback on GitHub issues and pull requests.
 
+We feature a spotlight contributor on the [MDN website](https://developer.mozilla.org/en-US/) once every month.
+
 To nominate someone to be a spotlight contributor, see the [process](#nominating-a-spotlight-contributor).
 
-## Invited expert
+## Specialized roles
 
-Invited Experts are responsible for a specific topic area or project component smaller than an entire project.
-Invited Experts are automatically assigned for review when pull requests are opened in their topic area.
-If there is more than one topic expert, reviewers are assigned using a [load-balancing strategy](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-auto-assignment).
+We have defined some contribtor roles that have more nuanced responsibilities and have special eligibilty conditions.
 
-Invited Experts have a track record of contributions, participation, and reviews, or have proven knowledge in a certain area of expertise.
-They, together with other Reviewers, are responsible for reviewing changes in their topic area and approving pull requests for merge.
+### Invited expert
 
-### Invited Experts requirements
+Invited experts have a track record on MDN for their contributions, participation in discussions and reviews, or have a proven knowledge in a certain area of expertise.
 
-- Has demonstrated an in-depth knowledge of the specific area.
-- Commits to being responsible for their assigned topic area.
-- Is supportive of new and occasional contributors and helps to get pull requests ready to merge.
-- Attends the community meeting which takes place once every two months.
+Invited experts are responsible for a specific topic area or a component of the MDN project. They are responsible for reviewing and approving pull requests in their topic or project area, answering technical questions, and maintaining the general health of their particular project.
 
-#### Process for nominating an Invited Expert
-
-- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
-- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming an Invited Expert.
-- To be accepted, the pull request needs three approvals. This can be any combination of Invited Experts, or Maintainers.
-- Once the pull request is approved, the new Invited Expert is added to the [invited-experts team](https://github.com/orgs/mdn/teams/invited-experts) and the appropriate topic team.
-
-### Invited experts responsibilities
-
-In addition to the rights and responsibilities of an Organization Member, Invited Experts are responsible for:
+In addition to the responsibilities of an [organization member](#organization-member), invited experts are responsible for:
 
 - Following the [review guide](REVIEWING.md).
 - Reviewing pull requests in their topic area.
 - Helping other contributors become reviewers.
 
-### Invited experts privileges
-
-- Have commit access to the repository.
-- Can recommend and vote for other members to become Invited Experts.
-- Will be added to the Invited Experts and appropriate topic team.
+Invited experts are automatically assigned for review when pull requests are opened in their topic area.
+If there is more than one expert in a topic area, they are assigned to pull requests using a [load-balancing strategy](https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-settings-for-your-team#about-auto-assignment).
 
 
-## Community Manager
+#### Requirements
 
-The Community Manager role is distinct in many respects. Still, as the projects are technical, the role shares many of the same requirements and responsibilities as the Maintainer role.
+To be eligible to be an invited expert, you must meet one or more of the following requirements:
+
+- Demonstrated an in-depth knowledge of a particular topic area.
+- Committed to being responsible for their assigned topic area.
+- Supported new and occasional contributors and helped to get pull requests ready to merge.
+- Attended the community meeting which takes place once every two months.
+
+#### Privileges
+
+Invited experts get added to the invited experts team and to the appropriate topic or project team. Invited experts can:
+
+- Access the required repository for commits.
+- Recommend and vote for other members to become invited experts.
+- Invited to our weekly MDN Web Docs editorial call.
+
+### Community manager
+
+Community managers have a distinct role in many respects. Still, as the projects are technical, the role shares many of the same requirements and responsibilities as the Maintainer role.
 
 In addition to the responsibilities of a Maintainer, the Community Manager has these additional responsibilities.
 
@@ -202,15 +207,21 @@ In addition to the responsibilities of a Maintainer, the Community Manager has t
 
 See who can be a [maintainer](#maintainer).
 
-To nominate someone as a maintainer,
+To nominate someone as a maintainer, open an issue on GitHub:
+1. Go to [`Issues`](https://github.com/mdn/mdn/issues) in the `mdn/mdn` repository.
+2. Click 'New issue` button on the right.
+3. Click the 'Get started' button for 'Nominate a maintainer'.
+4. Fill in the form with details of the contributions of the person you are nominating and submit the form.
+
+
+<--NOT SURE ABOUT THIS PR PROCESS
 <TODO: Update links in these steps>
 <TODO: Edit the section after updating the links>
-
 
 - The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
 - The nominee will add a comment to the pull request agreeing to all responsibilities of becoming a Maintainer.
 - At least three current Maintainers must approve the pull request.
-- Once the pull request is approved, the new Maintainer is added to the [maintainers team](https://github.com/orgs/mdn/teams/maintainers) and any other relevant topic or project teams.
+- Once the pull request is approved, the new Maintainer is added to the [maintainers team](https://github.com/orgs/mdn/teams/maintainers) and any other relevant topic or project teams.--!>
 
 ### Nominating a spotlight contributor
 
@@ -220,9 +231,26 @@ To nominate someone as a spotlight contributor, open an issue on GitHub:
 1. Go to [`Issues`](https://github.com/mdn/mdn/issues) in the `mdn/mdn` repository.
 2. Click 'New issue` button on the right.
 3. Click the 'Get started' button for 'Nominate a spotlight contributor'.
-4. Fill in the form with details of the contributions of the person you are nominating.
+4. Fill in the form with details of the contributions of the person you are nominating and submit the form.
 
-The MDN team will get in otuch with the nominated person to get their information to be published on the [website](https://developer.mozilla.org/en-US/).
+The MDN team will get in otuch with the nominated person to get their information to be published on the [website](https://developer.mozilla.org/en-US/) under "Contributor Spotlight".
+
+### Nominating an invited expert
+
+See who can be an [invited expert](#invited-expert).
+
+To nominate someone as an invited expert, open an issue on GitHub:
+1. Go to [`Issues`](https://github.com/mdn/mdn/issues) in the `mdn/mdn` repository.
+2. Click 'New issue` button on the right.
+3. Click the 'Get started' button for 'Nominate an invited expert'.
+4. Fill in the form with details of the contributions of the person you are nominating and submit the form.
+
+<--NOT SURE ABOUT THIS PR PROCESS
+- The nominator will open a pull request using the appropriate [template](https://github.com/mdn/mdn-community/roles/) against the [MDN Web Docs community repository](https://github.com/mdn/mdn-community/).
+- The nominee will add a comment to the pull request agreeing to all responsibilities of becoming an Invited Expert.
+- To be accepted, the pull request needs three approvals. This can be any combination of Invited Experts, or Maintainers.
+- Once the pull request is approved, the new Invited Expert is added to the [invited-experts team](https://github.com/orgs/mdn/teams/invited-experts) and the appropriate topic team.
+--!>
 
 ### Turning inactive
 
@@ -252,7 +280,7 @@ Finally, the matter will be discussed and brought to a vote by all maintainers a
 Please communicate with the community team to avoid the above process should your time commitments change.
 In these cases, you can instead proactively choose to step down for a while or move to Emeritus status (see below).
 
-## Stepping Down/Emeritus Process
+### Stepping Down/Emeritus Process
 
 If and when contributors' commitment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to Emeritus status (completely stepping away from the project).
 
