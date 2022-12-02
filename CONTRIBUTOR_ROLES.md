@@ -179,9 +179,9 @@ To be eligible to be an invited expert, you must meet one or more of the followi
 
 Invited experts get added to the invited experts team and to the appropriate topic or project team. Invited experts can:
 
-- Access the required repository for commits.
+- Access the required repository for commits and pull request approvals and merges.
 - Recommend and vote for other members to become invited experts.
-- Invited to our weekly MDN Web Docs editorial call.
+- Attend weekly MDN Web Docs editorial call.
 
 ### Community manager
 
