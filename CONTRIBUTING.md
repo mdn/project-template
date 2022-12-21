@@ -37,7 +37,7 @@ We welcome many different types of contributions including:
 
 ## Finding an issue
 
-We have issues labeled `good-first-issues` for new contributors and `help-wanted` suitable for any contributor.
+We have issues labeled `good first issue` for new contributors and `help wanted` suitable for any contributor.
 Good first issues have extra information to help you make your first contribution a success.
 Help wanted issues are ideal when you feel a bit more comfortable with the project details.
 
