@@ -1,3 +1,4 @@
+# TODO: Rename this file to codeql.yml and fill in the TODOs
 name: "CodeQL"
 
 on:
