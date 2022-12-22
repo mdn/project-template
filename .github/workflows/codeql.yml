@@ -22,7 +22,9 @@ jobs:
 
     strategy:
       matrix:
-        language: "TODO - add the language(s) you want to analyze here, e.g. 'javascript' or 'python'"
+        # Add the language(s) you want to analyze here as an array of strings
+        # for example: ['javascript'] or ['python', 'javascript']
+        language: ["TODO"]
 
     steps:
       - name: Checkout repository
