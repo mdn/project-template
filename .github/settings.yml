@@ -29,9 +29,6 @@ branches:
         require_code_owner_reviews: true
 
 collaborators:
-  - username: schalkneethling
-    permission: admin
-
   - username: Rumyra
     permission: admin
 
