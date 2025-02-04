@@ -1,4 +1,6 @@
 # TODO: Rename this file to codeql.yml and fill in the TODOs
+# Alternatively, enable codeQL default config via GitHub UI and delete this template
+# See: https://docs.github.com/en/code-security/code-scanning/enabling-code-scanning/configuring-default-setup-for-code-scanning#configuring-default-setup-for-a-repository
 name: "CodeQL"
 
 on:

@@ -1,0 +1,9 @@
+# Order is important: The last matching pattern takes precedence.
+# For more detailed information, see:
+# https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# TODO - set code owners, like '@mdn/core-yari-content' or '@mdn/core-dev'
+# See https://github.com/orgs/mdn/teams
+
+# Default owners
+* @mdn/core-dev @mdn/core-yari-content
