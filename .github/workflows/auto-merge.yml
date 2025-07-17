@@ -1,5 +1,10 @@
 name: "auto-merge"
-on: [pull_request_target]
+
+on:
+  pull_request_target
+
+# No GITHUB_TOKEN permissions, as we use AUTOMERGE_TOKEN instead.
+permissions: {}
 
 jobs:
   auto-merge:
@@ -7,4 +12,4 @@ jobs:
     with:
       target-repo: "TODO: set this value to the name of the current (origin) repo"
     secrets:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GH_TOKEN: ${{ secrets.AUTOMERGE_TOKEN }}
