@@ -1,15 +1,14 @@
-name: "auto-merge"
+name: auto-merge
 
 on:
-  pull_request_target
+  pull_request_target:
 
-# No GITHUB_TOKEN permissions, as we use AUTOMERGE_TOKEN instead.
-permissions: {}
+permissions:
+  contents: read
 
 jobs:
   auto-merge:
+    if: github.repository_owner == 'mdn'
     uses: mdn/workflows/.github/workflows/auto-merge.yml@main
-    with:
-      target-repo: "TODO: set this value to the name of the current (origin) repo"
     secrets:
       GH_TOKEN: ${{ secrets.AUTOMERGE_TOKEN }}
